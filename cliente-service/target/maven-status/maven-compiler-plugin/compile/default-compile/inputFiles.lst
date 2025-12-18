@@ -1,0 +1,14 @@
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/ClienteServiceApplication.java
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/PingController.java
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/controller/ClienteController.java
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/dto/ClienteResponse.java
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/dto/CreateClienteRequest.java
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/dto/PatchClienteRequest.java
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/dto/UpdateClienteRequest.java
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/error/ApiError.java
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/error/GlobalExceptionHandler.java
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/error/NotFoundException.java
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/model/Cliente.java
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/model/Persona.java
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/repository/ClienteRepository.java
+/Users/marlonlagunamatamoros/Documents/Proyectos/Test Devsu/cliente-service/src/main/java/com/devsu/cliente/service/ClienteService.java

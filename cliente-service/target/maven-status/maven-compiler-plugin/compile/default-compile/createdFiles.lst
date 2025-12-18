@@ -1,0 +1,12 @@
+com/devsu/cliente/dto/CreateClienteRequest.class
+com/devsu/cliente/error/NotFoundException.class
+com/devsu/cliente/ClienteServiceApplication.class
+com/devsu/cliente/error/ApiError$FieldError.class
+com/devsu/cliente/error/GlobalExceptionHandler.class
+com/devsu/cliente/controller/ClienteController.class
+com/devsu/cliente/dto/ClienteResponse.class
+com/devsu/cliente/service/ClienteService.class
+com/devsu/cliente/dto/UpdateClienteRequest.class
+com/devsu/cliente/error/ApiError.class
+com/devsu/cliente/dto/PatchClienteRequest.class
+com/devsu/cliente/PingController.class
